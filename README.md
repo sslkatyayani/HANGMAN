@@ -12,3 +12,4 @@ A simple command-line version of the classic *Hangman Game* built in Python.
 
 ## Ouput
 
+![Image](https://github.com/user-attachments/assets/e04c3ba9-a71f-4bfc-8eff-e71100eba746)
